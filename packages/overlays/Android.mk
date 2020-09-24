@@ -25,6 +25,7 @@ LOCAL_REQUIRED_MODULES := \
 	AccentColorGreenOverlay \
 	AccentColorPurpleOverlay \
 	AccentColorPixelBlueOverlay \
+        AccentColoriOSBlueOverlay \
 	DisplayCutoutEmulationCornerOverlay \
 	DisplayCutoutEmulationDoubleOverlay \
         DisplayCutoutEmulationHoleOverlay \
